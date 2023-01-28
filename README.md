@@ -16,7 +16,7 @@ Automation for https://mostly.ai/ test assignment. This project uses the page ob
 
 ## How to run tests
 1. Clone the repository from the branch
-2. Run the TestNGTestSuite.xml file in intellij OR
+2. Run the TestNG.xml file in intellij OR
 3. Run mvn test in Intellj / terminal
 4. Report can be found inside the report folder 
 
