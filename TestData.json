@@ -1,0 +1,10 @@
+{
+  "firstName":"tester",
+  "lName": "test",
+  "email": "test123@amazon.com",
+  "phNo": "123456789",
+  "org": "xyzOrg",
+  "country":"Germany",
+  "option":"Facebook" ,
+  "desc":"For testing"
+}
